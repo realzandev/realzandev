@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Discord: zandev97**
 
-- ⚡ Fun fact **I love playing Fortnite <3**
+- ⚡ Fun fact **I love Python and playing Fortnite <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
